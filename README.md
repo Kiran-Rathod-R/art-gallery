@@ -3,7 +3,7 @@
 A modern and responsive Art Gallery Website built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
-https://yourusername.github.io/art-gallery/
+https://github.com/Kiran-Rathod-R/art-gallery/
 
 ## 📌 Features
 - Responsive Design
