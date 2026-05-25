@@ -27,9 +27,9 @@ art-gallery/
 ├── README.md
 └── assets/
 
-## 📸 Screenshot
+## Screenshot
 
-(Add screenshot here)
+![Todo App Screenshot](screenshot.png)
 
 ## 💡 Future Improvements
 - Dark Mode
