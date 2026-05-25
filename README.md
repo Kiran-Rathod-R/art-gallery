@@ -29,7 +29,7 @@ art-gallery/
 
 ## Screenshot
 
-![Todo App Screenshot](screenshot.png)
+![Todo App Screenshot](Screenshot.png)
 
 ## 💡 Future Improvements
 - Dark Mode
