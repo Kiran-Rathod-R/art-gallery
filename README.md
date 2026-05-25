@@ -31,6 +31,10 @@ art-gallery/
 
 ![Todo App Screenshot](Screenshot.png)
 
+![Todo App Screenshot](Screenshot1.png)
+
+![Todo App Screenshot](Screenshot_1.png)
+
 ## 💡 Future Improvements
 - Dark Mode
 - Backend Integration
